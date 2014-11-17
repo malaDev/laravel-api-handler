@@ -558,6 +558,7 @@ class Parser
 			'min' => '>=', 
 			'max' => '<=', 
 			'lk' => 'LIKE',
+			'ilk' => 'ILIKE',
 			'not-lk' => 'NOT LIKE',
 			'not' => '!=',
 		);
